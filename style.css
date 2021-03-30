@@ -1,0 +1,19 @@
+.container
+{
+    width: 50%;
+    height: 50px;
+}
+
+button
+{
+    width: 100%;
+    background-color: #24ad98;
+    font-weight: bold;
+    padding: 20px 40px;
+}
+
+button:hover
+{
+    color: #24ad98;
+    background-color: #fff;
+}
